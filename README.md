@@ -1,4 +1,4 @@
-Next.js multi language using next-i18next with [LRT] direction like English and [RTL] direction like Arabic and Farsi
+Next.js multi language using next-i18next with [LTR] direction like English and [RTL] direction like Arabic and Farsi
 
 ## Demo 
 
